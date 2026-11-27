@@ -1,0 +1,25 @@
+======================================
+       SYSTEM INFORMATION REPORT
+======================================
+Name: Aditya Sharma
+Roll Number: 2601730014
+Date: Fri Nov 27 04:31:19 UTC 2026
+
+---------- CPU INFORMATION ----------
+CPU Model:
+Model name:                              Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz
+CPU Cores:
+Core(s) per socket:                      4
+
+---------- MEMORY INFORMATION ----------
+Total Memory: 7.7Gi
+Used Memory: 460Mi
+
+---------- TOP 3 CPU PROCESSES ----------
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.2  0.1  21700 13112 ?        Ss   04:22   0:01 /sbin/init
+root          93  0.2  0.0  24816  6576 ?        Ss   04:22   0:01 /usr/lib/systemd/systemd-udevd
+root         529  0.0  0.0  24820  3800 ?        S    04:30   0:00 (udev-worker)
+
+Report generated successfully.
+======================================

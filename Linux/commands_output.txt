@@ -1,0 +1,21 @@
+total 32
+drwxr-x--- 4 aditya aditya 4096 Nov 26 16:18 .
+drwxr-xr-x 3 root   root   4096 Nov 26 15:41 ..
+-rw------- 1 aditya aditya   12 Nov 26 15:50 .bash_history
+-rw-r--r-- 1 aditya aditya  220 Nov 26 15:41 .bash_logout
+-rw-r--r-- 1 aditya aditya 3771 Nov 26 15:41 .bashrc
+drwx------ 2 aditya aditya 4096 Nov 26 15:47 .cache
+-rw-rw-r-- 1 aditya aditya    0 Nov 26 15:47 .motd_shown
+-rw-r--r-- 1 aditya aditya  807 Nov 26 15:41 .profile
+-rw-r--r-- 1 aditya aditya    0 Nov 26 15:52 .sudo_as_admin_successful
+drwxr-xr-x 3 aditya aditya 4096 Nov 26 16:18 DeveloperPortfolio
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.1  0.1  22292 12188 ?        Ss   15:39   0:04 /usr/lib/systemd/systemd --system --deserialize=51
+root           2  0.0  0.0   3820  2524 hvc0     Sl+  15:39   0:00 /init
+root           3  0.0  0.0   3680  2224 hvc0     S+   15:39   0:00 init-watcher
+root           7  0.0  0.0   3836  2436 hvc0     Sl+  15:39   0:00 plan9 --control-socket 7 --log-level 4 --server-fd 8 --pipe-fd 10 --log-truncate
+root         184  0.0  0.0   4244  2672 ?        Ss   15:39   0:00 /usr/sbin/cron -f -P
+message+     185  0.0  0.0   9828  5752 ?        Ss   15:39   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         192  0.0  0.1  18172  8924 ?        Ss   15:39   0:00 /usr/lib/systemd/systemd-logind
+root         221  0.0  0.0   3124  1972 tty1     Ss+  15:39   0:00 /sbin/agetty -o -p -- \u --noclear - linux
+root         231  0.0  0.2 107044 23144 ?        Ssl  15:39   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
