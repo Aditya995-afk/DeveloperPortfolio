@@ -50,3 +50,15 @@ This repository showcases my learning journey as a beginner developer. It contai
 
 - GitHub: https://github.com/Aditya995-afk
 - LinkedIn: https://linkedin.com/in/aditya-sharma-89ab18430/
+
+
+## Screenshots
+
+### Backup Demonstration
+![Backup Demo](Screenshots/backup_demo.png)
+
+### GitHub Profile
+![GitHub Profile](Screenshots/github_profile.png)
+
+### LinkedIn Profile
+![LinkedIn Profile](Screenshots/linkedin_profile.png)
