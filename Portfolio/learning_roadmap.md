@@ -22,22 +22,20 @@
 - Study Database Management Systems (DBMS).
 - Improve HTML, CSS and JavaScript skills.
 - Build interactive web development projects.
-- Complete at least one beginner-level industry-recognized certification.
+- Plan to complete Cisco Networking Academy's Python Essentials 1 certification before the end of Semester 2.
 
 **Milestone:** Build and publish a functional web project.
 
-## Semester 3 – Exploring Specializations
+## Semester 3 – Data Science Specialization
 
-- Explore Artificial Intelligence and Machine Learning.
-- Learn the fundamentals of data analysis.
-- Practise Python libraries and problem-solving.
-- Explore different career paths and select a specialization.
+- Study statistics, data visualization and data analysis.
+- Learn Python libraries such as NumPy and Pandas.
+- Build beginner-level Data Science and Machine Learning projects.
 
 **Milestone:** Complete a beginner AI/ML or data-focused project.
 
 ## Semester 4 – Practical Development
 
-- Strengthen knowledge of the chosen specialization.
 - Learn advanced programming concepts.
 - Work on real-world problem-solving projects.
 - Explore collaborative development using GitHub.

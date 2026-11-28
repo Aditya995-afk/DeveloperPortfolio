@@ -1,4 +1,5 @@
 
+# Author: Aditya Sharma
 #!/bin/bash
 
 echo "======================================"
